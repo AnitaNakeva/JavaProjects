@@ -1,0 +1,7 @@
+Receipt #1
+Cashier: Petar
+Date: 2025-05-23T12:46:01.469466900
+Items:
+Chocolate - 2 x 5.0 BGN
+Tooth Paste - 1 x 5.6 BGN
+Total: 19.78 BGN

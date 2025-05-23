@@ -1,0 +1,7 @@
+Receipt #2
+Cashier: Petar
+Date: 2025-05-23T12:46:01.624546700
+Items:
+Chocolate - 1 x 5.0 BGN
+Banichka - 12 x 0.8 BGN
+Total: 15.85 BGN
